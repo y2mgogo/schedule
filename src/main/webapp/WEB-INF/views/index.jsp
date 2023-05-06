@@ -87,7 +87,6 @@
 		    <div style="height:10px;"></div>
 		    <div>※특수기호(,)는 사용할 수 없습니다.</div>
 	    </div>
-	    
 	</div>
 </body>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"
